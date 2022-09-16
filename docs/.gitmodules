@@ -1,3 +1,3 @@
 [submodule "rjmillena/rjmillena"] 
    path = rjmillena/rjmillena
-   url = git://github.com/rjmillena/rjmillena
+   url = git:https://github.com/rjmillena/rjmillena
