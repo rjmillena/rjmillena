@@ -1,0 +1,17 @@
+name: "rjmillena"
+title: "RJ Millena"
+theme: theme1.css
+description: |
+  Website
+output_dir: "docs"
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "Field"
+      href: about.html
+    - text: "Work"
+      href: projects.html
+    - icon: fab fa-github
+      href: https://github.com/rjmillena/
+output: distill::distill_article

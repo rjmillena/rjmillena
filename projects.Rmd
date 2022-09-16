@@ -1,0 +1,10 @@
+---
+title: "Work"
+output: distill::distill_article
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+this will be where work will go—probably subdivided into projects, presentations, publications

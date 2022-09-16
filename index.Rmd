@@ -1,0 +1,38 @@
+---
+title: "RJ Millena"
+image: "portrait.jpeg"
+links:
+  - label: Google Scholar
+    url: "https://scholar.google.com/citations?user=t0LXLrwAAAAJ&hl=en/"
+  - label: GitHub
+    url: "https://github.com/rjmillena"
+  - label: Twitter
+    url: "https://twitter.com/entomolrj"
+  - label: Email
+    url: "mailto:rmillena@amnh.org"
+output:
+  postcards::trestles
+site: distill::distill_website
+---
+## About
+I'm an entomologist specializing in the evolution of twisted-wing insect parasites (Strepsiptera) for my PhD in Comparative Biology at the American Museum of Natural History. My work involves the genomics, host associations, and speciation of this enigmatic order.
+
+This site essentially exists for me to practice my programming—in R, CSS, HTML, etc. and to keep a log of what I've been working on. I don't really know what I'm doing, but I'm having a good time. Occasionally the last part is a lie because learning how to code solo is frustrating sometimes.
+
+### Education
+* **American Museum of Natural History** | New York, NY
+  + Ph.D. in Comparative Biology | September 2021 - Current
+
+* **University of California, Davis** | Davis, CA
+  + B.S. in Entomology, Minors in Nematology and Ecology, Evolution, & Biodiversity | September 2017 - May 2021
+
+### Organizations
+* **[Women in Natural Sciences](https://www.winsny.org/)** | Graduate Student Rep | June 2022 - Current
+* **[SACNAS](https://www.sacnas.org/)** | Member | June 2022 - Current
+* **[The Society of Systematic Biologists](https://www.systbio.org/)** | Member | April 2022 - Current
+* **[EntoPOC](https://www.entopoc.org/)** | Instar | May 2021 - Current
+* **[Entomological Society of America](https://entsoc.org/)** | Member | May 2021 - Current
+
+### Teaching Experience
+* **Columbia University** | Instructor | June 2022 - August 2022
+* **DSA GEODE, Colombia Workshop** | Graduate Instructor | June 2022
